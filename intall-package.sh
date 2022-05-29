@@ -41,3 +41,14 @@ do
         installer $f3
 done
 
+
+
+###Pass a text file package.txt
+Name,UID,packagename1,packagename2
+siddu,23,vim
+ramesh,45,docker.io
+abhsiesk,5,goaccess
+samarth,1,git
+ram,22,sudo
+
+#####
