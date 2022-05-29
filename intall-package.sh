@@ -50,5 +50,6 @@ ramesh,45,docker.io
 abhsiesk,5,goaccess
 samarth,1,git
 ram,22,sudo
+kavita,2,systemctl 
 
 #####
